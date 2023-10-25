@@ -12,7 +12,7 @@ window.onload = function () {
   mn = 0;
   h = 0;
 };
-//mettre en place le compteuer
+//mettre en place le compteur
 function update_chrono() {
   ms += 1;
   if (ms == 10) {

@@ -91,3 +91,7 @@ button:hover{
     background-color: rgb(251, 251, 251);
     color: black;
 }
+
+@media screen (max-width:){
+    
+}
