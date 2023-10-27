@@ -33,7 +33,6 @@ function update_chrono() {
   sp[2].innerHTML = s + "s";
   sp[3].innerHTML = ms + "ms";
 }
-
 //mettre en place la fonction du bouton start
 
 function start() {
